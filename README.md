@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e sou natural do Pará. Formada no curso de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando um Bootcamp na Tripleten de Data Scientist. Sou apaixonada por tecnologia e compartilho minhas conquitas e experiências através do meu Linkeding "[Karyne Miranda](www.linkedin.com/in/karynemiranda)".
+Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e vivo em São Paulo. Formada no curso de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando um Bootcamp na Tripleten de Data Scientist. Sou apaixonada por tecnologia e compartilho minhas conquitas e experiências através do meu Linkeding "[Karyne Miranda](www.linkedin.com/in/karynemiranda)".
 
 ---
 

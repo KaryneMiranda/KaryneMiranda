@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Karyne Miranda
 
-**`Desenvolvedora FullStack`**
+**`Cientista de Dados`**
 
 Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e sou natural do Pará. Formada no curso de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando um Bootcamp na Tripleten de Data Scientist. Sou apaixonada por tecnologia e compartilho minhas conquitas e experiências através do meu Linkeding "[Karyne Miranda](www.linkedin.com/in/karynemiranda)".
 
@@ -14,7 +14,7 @@ Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e sou natural do Pará. For
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    <i class="devicon-html5-plain"></i>
 />
 <img 
     align="left" 

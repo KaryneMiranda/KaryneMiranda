@@ -26,12 +26,20 @@ Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e vivo em São Paulo. Forma
 />
 <img 
     align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+/> 
+<img 
+    align="left" 
     alt="scikitlearn" 
     title="scikitlearn"
     width="50px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-/>          
+/> 
 <img 
     align="left" 
     alt="Python" 
@@ -39,6 +47,14 @@ Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e vivo em São Paulo. Forma
     width="50px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
 <img 
     align="left" 
@@ -55,6 +71,14 @@ Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e vivo em São Paulo. Forma
     width="50px" 
     style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCODE" 
+    title="VSCODE"
+    width="50px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
     align="left" 

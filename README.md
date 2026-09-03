@@ -12,48 +12,48 @@ Me chamo Dienyfe Karyne Miranda Pinho, tenho 28 anos e vivo em São Paulo. Forma
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
 />
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
     alt="scikitlearn" 
     title="scikitlearn"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />          
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
     alt="Matplotlib" 
     title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
 />
 <img 
     align="left" 
     alt="Salesforce" 
     title="Salesforce"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
 />
 <img 

@@ -94,11 +94,3 @@ Sou apaixonada por tecnologia e por transformar dados em decisões. Neste perfil
 />
 <br/>
 <br/>
-
----
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karyneMiranda/karyneMiranda/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karyneMiranda/karyneMiranda/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karyneMiranda/karyneMiranda/output/github-contribution-grid-snake.svg">
-</picture>
